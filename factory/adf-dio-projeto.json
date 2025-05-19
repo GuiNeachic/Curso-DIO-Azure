@@ -1,9 +1,0 @@
-{
-	"name": "adf-dio-projeto",
-	"location": "eastus2",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "aa20538b-99f5-4bfe-b15b-b674f88b2ea9",
-		"tenantId": "ed38466c-b641-437d-9ae9-d801b829fa94"
-	}
-}
